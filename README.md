@@ -1,7 +1,7 @@
 # Hi 👋, I'm Muhammad Talha Mazhar
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Python+Developer;FastAPI+Developer;AI+Automation+Expert;Trading+Bot+Developer;Deep+Learning+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Python+Developer;Machine+Learning+Engineer;Trading+Bot+Developer;SEO+Expert;AI+Automation+Enthusiast" />
 </p>
 
 <p align="center">
@@ -12,23 +12,22 @@
 
 # 💜 About Me
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-```yaml id="q9kw6d"
+```yaml id="n2k8x4"
 name:        Muhammad Talha Mazhar
-role:        Machine Learning Engineer
+role:        Python Developer & Machine Learning Engineer
 location:    Pakistan 🇵🇰
-focus:       AI Applications · Automation · Trading Bots
-learning:    Deep Learning · NLP · FastAPI
-skills:      Python · Machine Learning · FastAPI · TensorFlow
+working_on:  AI Applications · Trading Bots · Automation Tools
+skills:      Python · Machine Learning · Trading Bots · SEO
 ```
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,tensorflow,pytorch,postgresql,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,html,css,javascript,git,github,vscode" />
 </p>
 
 ---
@@ -36,7 +35,7 @@ skills:      Python · Machine Learning · FastAPI · TensorFlow
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=httpstalha&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=httpstalha&show_icons=true&theme=tokyonight&hide_border=true"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpstalha&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
@@ -46,18 +45,8 @@ skills:      Python · Machine Learning · FastAPI · TensorFlow
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=httpstalha&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=httpstalha&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-# 🧠 Current Focus
-
-* 🤖 AI Applications
-* 📈 Trading Bots
-* ⚡ Automation Systems
-* 🧠 Machine Learning Models
-* 🌐 FastAPI Backend Development
 
 ---
 
@@ -65,15 +54,15 @@ skills:      Python · Machine Learning · FastAPI · TensorFlow
 
 ### ❤️ Heart Disease Prediction
 
-Machine learning project to predict heart disease using medical data.
+Machine learning project for predicting heart disease risk using patient data.
 
 ### 📧 Bulk Email Sender
 
-Professional GUI-based bulk email automation system.
+Professional bulk email sender with GUI and automation support.
 
-### 🤖 AI & Trading Bots
+### 🤖 Trading Bots
 
-Automation bots using APIs and AI logic.
+Automated trading bots using Python and APIs.
 
 ---
 
@@ -85,7 +74,7 @@ Automation bots using APIs and AI logic.
   </a>
 
   <a href="mailto:talhamazhar1231@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
