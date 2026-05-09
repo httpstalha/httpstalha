@@ -1,97 +1,107 @@
+<!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Talha%20Mazhar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Developer%20%7C%20ML%20Engineer%20%7C%20AI%20%26%20Automation&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a2e&height=3&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Machine+Learning+Engineer+%F0%9F%A4%96;Trading+Bot+Builder+%F0%9F%93%88;AI+%26+Automation+Enthusiast+%E2%9A%A1)](https://git.io/typing-svg)
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   > SYSTEM BOOT...                                               ║
+║   > USER: Muhammad Talha Mazhar                                  ║
+║   > ROLE: Python Developer | ML Engineer | AI Automation         ║
+║   > LOCATION: Bahawalpur, Pakistan 🇵🇰                           ║
+║   > STATUS: Building the future, one script at a time ⚡         ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&pause=800&color=00C853&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Machine+Learning+Engineer+%F0%9F%A4%96;Trading+Bot+Architect+%F0%9F%93%88;AI+%26+Automation+Builder+%E2%9A%A1;SEO+Expert+%F0%9F%94%8D)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=httpstalha&color=00C853&style=flat-square&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## `$ whoami`
 
-```python
-class MuhammadTalhaMazhar:
-    def __init__(self):
-        self.name       = "Muhammad Talha Mazhar"
-        self.username   = "httpstalha"
-        self.location   = "Bahawalpur, Pakistan 🇵🇰"
-        self.company    = "Intellix Soft"
-        self.focus      = ["AI Applications", "Trading Bots", "Automation Tools"]
-        self.skills     = ["Python", "Machine Learning", "Trading Bots", "SEO"]
-        self.kaggle     = "https://www.kaggle.com/mtalhamazhar"
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something great 🚀")
+```terminal
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   Name       :  Muhammad Talha Mazhar                           │
+│   Username   :  httpstalha                                       │
+│   Company    :  Intellix Soft                                    │
+│   Location   :  Bahawalpur, Pakistan 🇵🇰                         │
+│   Focus      :  AI Applications · Trading Bots · Automation     │
+│   Kaggle     :  kaggle.com/mtalhamazhar                          │
+│   Email      :  talhamazhar1231@gmail.com                        │
+│                                                                  │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## `$ cat skills.txt`
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+| Layer | Technologies |
+|:------|:-------------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=FFD43B) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=264de4) |
+| **ML / AI** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![PyTorch](https://img.shields.io/badge/PyTorch-000?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![Scikit](https://img.shields.io/badge/Scikit--Learn-000?style=flat-square&logo=scikit-learn&logoColor=F7931E) ![Pandas](https://img.shields.io/badge/Pandas-000?style=flat-square&logo=pandas&logoColor=150458) ![NumPy](https://img.shields.io/badge/NumPy-000?style=flat-square&logo=numpy&logoColor=4dabcf) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-000?style=flat-square&logo=visual-studio-code&logoColor=0078D4) ![Jupyter](https://img.shields.io/badge/Jupyter-000?style=flat-square&logo=jupyter&logoColor=F37626) |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## `$ ls projects/`
 
 <div align="center">
 
-| 🏷️ Project | 📝 Description | 🔧 Tech |
-|:---:|:---|:---:|
-| [❤️ Heart Disease Prediction](https://github.com/httpstalha/Heart-Disease) | ML model predicting heart disease risk — EDA, feature selection & multiple algorithms | `Python` `Jupyter` `Sklearn` |
-| [📧 Bulk Email Sender](https://github.com/httpstalha/bulk-email-sender) | GUI-based bulk email automation tool | `Python` `Tkinter` `SMTP` |
-| [🎬 Video Splitter](https://github.com/httpstalha/vedio-splitters) | Splits videos into parts automatically | `Python` `FFmpeg` |
-| 🤖 Trading Bots | Automated trading bots using live market APIs | `Python` `REST APIs` |
+```
+drwxr-xr-x  ❤️  Heart-Disease-Prediction
+drwxr-xr-x  📧  Bulk-Email-Sender
+drwxr-xr-x  🎬  Video-Splitter
+drwxr-xr-x  🤖  Trading-Bots
+```
+
+</div>
+
+| # | Project | Description | Stack |
+|:-:|:--------|:------------|:------|
+| 01 | [**❤️ Heart Disease Prediction**](https://github.com/httpstalha/Heart-Disease) | ML model predicting heart disease risk using patient data — EDA, feature selection & model training | `Python` `Jupyter` `Scikit-learn` |
+| 02 | [**📧 Bulk Email Sender**](https://github.com/httpstalha/bulk-email-sender) | Professional GUI-based bulk email tool with full automation | `Python` `Tkinter` `SMTP` |
+| 03 | [**🎬 Video Splitter**](https://github.com/httpstalha/vedio-splitters) | Splits large videos into multiple parts automatically | `Python` `FFmpeg` |
+| 04 | **🤖 Trading Bots** | Automated trading bots using live market APIs | `Python` `REST APIs` |
+
+---
+
+## `$ github --stats httpstalha`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=httpstalha&show_icons=true&theme=gruvbox&hide_border=false&border_color=00C853&border_radius=6&icon_color=00C853&title_color=00C853&bg_color=0d1117&text_color=c9d1d9&count_private=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpstalha&layout=compact&theme=gruvbox&hide_border=false&border_color=00C853&border_radius=6&title_color=00C853&bg_color=0d1117&text_color=c9d1d9" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=httpstalha&theme=dark&hide_border=false&border=00C853&ring=00C853&fire=FFD43B&currStreakLabel=00C853&border_radius=6&background=0d1117&stroke=00C853" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## `$ ping me`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=httpstalha&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&count_private=true" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpstalha&layout=compact&theme=github_dark&hide_border=true&border_radius=10" height="160"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=httpstalha&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-httpstalha-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/httpstalha)
-[![Kaggle](https://img.shields.io/badge/Kaggle-mtalhamazhar-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mtalhamazhar)
-[![Gmail](https://img.shields.io/badge/Gmail-talhamazhar1231@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talhamazhar1231@gmail.com)
+[![GitHub](https://img.shields.io/badge/──%20GitHub%20──-httpstalha-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=000)](https://github.com/httpstalha)
+[![Kaggle](https://img.shields.io/badge/──%20Kaggle%20──-mtalhamazhar-0d1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF&labelColor=000)](https://www.kaggle.com/mtalhamazhar)
+[![Gmail](https://img.shields.io/badge/──%20Gmail%20──-talhamazhar1231-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=000)](mailto:talhamazhar1231@gmail.com)
 
 </div>
 
@@ -99,8 +109,12 @@ class MuhammadTalhaMazhar:
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=httpstalha&color=58a6ff&style=flat-square&label=Profile+Views)
+```
+> session terminated.
+> thank you for visiting — httpstalha
+> [EOF]
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=80&section=footer"/>
 
 </div>
