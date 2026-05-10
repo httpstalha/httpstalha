@@ -2,12 +2,10 @@
 
 # Muhammad Talha Mazhar
 
-### `> Python Developer | ML Engineer | AI Automation | Trading Bots`
-
----
+**`> Python Developer | ML Engineer | AI Automation | Trading Bots`**
 
 [![GitHub followers](https://img.shields.io/github/followers/httpstalha?label=Followers&style=social)](https://github.com/httpstalha)
-&nbsp;&nbsp;
+&nbsp;
 [![GitHub stars](https://img.shields.io/github/stars/httpstalha?label=Stars&style=social)](https://github.com/httpstalha)
 
 </div>
@@ -35,14 +33,14 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**`> Languages`**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**ML / AI**
+**`> ML / AI`**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -50,7 +48,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Tools**
+**`> Tools`**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -63,10 +61,10 @@
 
 | # | Project | Description | Stack |
 |:-:|:--------|:------------|:------|
-| 01 | [**❤️ Heart Disease Prediction**](https://github.com/httpstalha/Heart-Disease) | ML model predicting heart disease risk — EDA, feature selection & model training | Python · Jupyter · Scikit-learn |
-| 02 | [**📧 Bulk Email Sender**](https://github.com/httpstalha/bulk-email-sender) | GUI-based bulk email automation tool | Python · Tkinter · SMTP |
-| 03 | [**🎬 Video Splitter**](https://github.com/httpstalha/vedio-splitters) | Splits large videos into multiple parts automatically | Python · FFmpeg |
-| 04 | **🤖 Trading Bots** | Automated trading bots using live market APIs | Python · REST APIs |
+| `01` | [**❤️ Heart Disease Prediction**](https://github.com/httpstalha/Heart-Disease) | ML model predicting heart disease risk — EDA, feature selection & model training | `Python` `Jupyter` `Scikit-learn` |
+| `02` | [**📧 Bulk Email Sender**](https://github.com/httpstalha/bulk-email-sender) | Professional GUI-based bulk email automation tool | `Python` `Tkinter` `SMTP` |
+| `03` | [**🎬 Video Splitter**](https://github.com/httpstalha/vedio-splitters) | Splits large videos into multiple parts automatically | `Python` `FFmpeg` |
+| `04` | **🤖 Trading Bots** | Automated trading bots using live market APIs | `Python` `REST APIs` |
 
 ---
 
@@ -74,17 +72,17 @@
 
 <div align="center">
 
-![httpstalha's GitHub stats](https://github-readme-stats.vercel.app/api?username=httpstalha&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800)
+![httpstalha's GitHub stats](https://github-readme-stats.vercel.app/api?username=httpstalha&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=httpstalha&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=httpstalha&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=httpstalha&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
 ---
 
-## 📬 Connect
+## 📬 Connect With Me
+
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-httpstalha-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/httpstalha)
 &nbsp;
@@ -92,8 +90,10 @@
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talhamazhar1231@gmail.com)
 
+</div>
+
 ---
 
 <div align="center">
-<sub>> session terminated. thanks for visiting — httpstalha | [EOF]</sub>
+<sub><code>> session terminated. thanks for visiting — httpstalha | [EOF]</code></sub>
 </div>
