@@ -74,15 +74,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=httpstalha&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpstalha&layout=compact&theme=dark&hide_border=true" height="160"/>
+![httpstalha's GitHub stats](https://github-readme-stats.vercel.app/api?username=httpstalha&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=httpstalha&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=httpstalha&theme=dark&hide_border=true"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=httpstalha&theme=dark&hide_border=true)
 
 </div>
 
@@ -94,14 +90,10 @@
 &nbsp;
 [![Kaggle](https://img.shields.io/badge/Kaggle-mtalhamazhar-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mtalhamazhar)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-talhamazhar1231@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talhamazhar1231@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talhamazhar1231@gmail.com)
 
 ---
 
 <div align="center">
-
-```
-> session terminated. thanks for visiting — httpstalha | [EOF]
-```
-
+<sub>> session terminated. thanks for visiting — httpstalha | [EOF]</sub>
 </div>
