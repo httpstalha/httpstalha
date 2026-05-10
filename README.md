@@ -12,7 +12,10 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&pause=800&color=00C853&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Machine+Learning+Engineer+%F0%9F%A4%96;Trading+Bot+Architect+%F0%9F%93%88;AI+%26+Automation+Builder+%E2%9A%A1)](https://git.io/typing-svg)
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=FFD43B)
+![ML Engineer](https://img.shields.io/badge/ML_Engineer-000?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![AI Automation](https://img.shields.io/badge/AI_Automation-000?style=flat-square&logo=openai&logoColor=white)
+![Trading Bots](https://img.shields.io/badge/Trading_Bots-000?style=flat-square&logo=bitcoin&logoColor=F7931A)
 
 <img src="https://komarev.com/ghpvc/?username=httpstalha&color=00C853&style=flat-square&label=PROFILE+VIEWS"/>
 
