@@ -5,7 +5,7 @@
 
 ### `> Python Developer | ML Engineer | AI Automation | Trading Bots`
 
-<br/>
+<br/> 
 
 [![GitHub followers](https://img.shields.io/github/followers/httpstalha?label=Followers&style=social)](https://github.com/httpstalha)
 &nbsp;&nbsp;
