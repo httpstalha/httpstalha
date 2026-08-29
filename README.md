@@ -166,10 +166,7 @@ An AI agent designed to analyze and help resolve code issues automatically.
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=httpstalha&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpstalha&layout=compact" />
-</p>
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=httpstalha&show_icons=true&count_private=true&theme=default&cache_seconds=1800" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpstalha&layout=compact&cache_seconds=1800" /> </p> <!-- Agar ye images GitHub par phir bhi na dikhein (Vercel free-tier rate limit ki wajah se), ye teen options try karein: 1. Kuch der (10–15 min) baad reload karein — aksar ye temporary hota hai. 2. Apna khud ka free instance deploy karein: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own phir username query wahi rakh kar apne Vercel domain ka URL use karein. 3. Neeche diya gaya alternate badge service try karein (streak stats): ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=httpstalha&theme=default) -->
 
 ---
 
